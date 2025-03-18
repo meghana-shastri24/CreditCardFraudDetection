@@ -15,7 +15,7 @@ The project employs machine learning models such as Random Forest, and XGBoostin
     ```bash
     pip install -r requirements.txt
     ```
-3. Start the API server:
+3. Start the API server: localhost
     ```bash
     uvicorn app:app --reload
     ```
