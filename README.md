@@ -33,3 +33,4 @@ The project employs machine learning models such as Random Forest, and XGBoostin
 
     ```
     The API will return a prediction indicating whether the transaction is fraudulent or legitimate with confidence.
+   Swagger example pdf: [FastAPI - Swagger UI.pdf](https://github.com/user-attachments/files/19333504/FastAPI.-.Swagger.UI.pdf)
